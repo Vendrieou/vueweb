@@ -1,0 +1,19 @@
+{
+  "name": "vuejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vendrieou/vueweb.git"
+  },
+  "author": "vendrie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vendrieou/vueweb/issues"
+  },
+  "homepage": "https://github.com/Vendrieou/vueweb#readme"
+}
